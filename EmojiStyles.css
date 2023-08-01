@@ -1,0 +1,25 @@
+body{
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kTjMyAJO9JZmLVGi7qLNKkXT544x_CvMhg&usqp=CAU");
+}
+.Main{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-top: 200px;
+    border: 5px solid whitesmoke;
+    background-color:burlywood ;
+}
+h1{
+    margin-top: 70px;
+    color:brown;
+    font-style: oblique;
+}
+input{
+    height: 40px;
+    width: 250px;
+    font-size:15px;
+}
+.container{
+    margin-top: 20px;
+}
